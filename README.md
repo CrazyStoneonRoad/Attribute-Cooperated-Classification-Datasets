@@ -1,4 +1,7 @@
-# Attribute-Assistted-Classification-Datasets
+Attribute-Assistted-Classification-Datasets
+=====================
+
+## If you find this dataset useful, may you star it before downloading.
 
 Three datasets based on AID, UCM, and Sydney. 
 
