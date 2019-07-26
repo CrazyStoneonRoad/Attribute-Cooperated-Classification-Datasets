@@ -14,3 +14,4 @@ for clsi in root:
         count = count + np.array(root[clsi][imgi])
 
 print(count)
+ 
