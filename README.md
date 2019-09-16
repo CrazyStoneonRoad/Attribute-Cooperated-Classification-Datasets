@@ -30,16 +30,22 @@ Several elements of attribute label vectors are shown below the images.
 Number of images in the dataset.
 
 - SIZE.Images
+
 Size of images in the dataset.
 
 - NO.Classes
+
 Number of image classes in the dataset.
 
 - **NO.Attributes**
-Number of all attribute items in the dataset. Note that in an image, there maybe several attribute items from all items.
+
+Number of all attribute items in the dataset. 
+Note that in an image, there maybe several attribute items from all items.
 
 - NO.Images per Class
+
 Number of images in each class.
 
 - **NO.Images per Attribute**
+
 Number of images corresponding to each attribute item.
