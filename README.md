@@ -9,11 +9,25 @@ Three ***Attribute-Assistted-Classification-Datasets*** **(AACDs)** are built ba
 ### Our article:
 
 ### Other articles:
-AID: Aid: A benchmark data set for performance evaluation of aerial scene classification
-UCM: Bag-of-visual-words and spatial extensions for land-use classification
-Sydney: Saliency-guided unsupervised feature learning for scene classification
-RSICD: Exploring models and data for remote sensing image caption generation
-Caption: Deep semantic understanding of high resolution remote sensing image
+- AID: 
+
+Aid: A benchmark data set for performance evaluation of aerial scene classification
+
+- UCM: 
+
+Bag-of-visual-words and spatial extensions for land-use classification
+
+- Sydney: 
+
+Saliency-guided unsupervised feature learning for scene classification
+
+- RSICD: 
+
+Exploring models and data for remote sensing image caption generation
+
+- Caption: 
+
+Deep semantic understanding of high resolution remote sensing image
 
 ## Samples
 Samples of the three datasets are shown as below.
