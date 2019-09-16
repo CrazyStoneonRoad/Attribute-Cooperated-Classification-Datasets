@@ -1,9 +1,11 @@
-Attribute-Assistted-Classification-Datasets
-=====================
+# Attribute-Assistted-Classification-Datasets
+## Contents
+Three ***Attribute-Assistted-Classification-Datasets*** **(AACDs)** are built based on three existing classficiation datasets:
+- AC-AID based on AID
+- AC-UCM based on UCM
+- AC-Sydney based on Sydney
 
-## If you find this dataset useful, may you star it before downloading.
+## Citations
 
-Three datasets based on AID, UCM, and Sydney. 
-
-For each image, there is a label of scene classification and a label vector of attribute items.
-
+## Samples
+![samples](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-AID/AC-AID-2.png)
