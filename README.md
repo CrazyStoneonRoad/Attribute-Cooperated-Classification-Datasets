@@ -37,6 +37,20 @@ Number of images in each class.
 Number of images corresponding to each attribute item.
 
 
+## Samples
+Samples of the three datasets are shown as below.
+- AC-AID
+![aid](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-AID/AC-AID-2r.png)
+- AC-UCM
+![ucm](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-UCM/AC-UCM-2r.png)
+- AC-Sydney
+![sydney](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-Sydney/AC-Sydney-2r.png)
+
+Classification labels are shown on the left side of the images. 
+Several elements of attribute label vectors are shown below the images.
+
+
+
 ## Citations
 ### Our article:
 
@@ -61,14 +75,3 @@ Exploring models and data for remote sensing image caption generation
 
 Deep semantic understanding of high resolution remote sensing image
 
-## Samples
-Samples of the three datasets are shown as below.
-- AC-AID
-![aid](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-AID/AC-AID-2r.png)
-- AC-UCM
-![ucm](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-UCM/AC-UCM-2r.png)
-- AC-Sydney
-![sydney](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-Sydney/AC-Sydney-2r.png)
-
-Classification labels are shown on the left side of the images. 
-Several elements of attribute label vectors are shown below the images.
