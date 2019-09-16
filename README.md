@@ -26,6 +26,7 @@ Several elements of attribute label vectors are shown below the images.
 
 
 - NO.Images
+
 Number of images in the dataset.
 
 - SIZE.Images
