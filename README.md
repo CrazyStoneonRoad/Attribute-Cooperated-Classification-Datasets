@@ -8,4 +8,4 @@ Three ***Attribute-Assistted-Classification-Datasets*** **(AACDs)** are built ba
 ## Citations
 
 ## Samples
-![samples](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-AID/AC-AID-2.png)
+![samples](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-UCM/AC-UCM-2r.png)
