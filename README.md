@@ -1,6 +1,6 @@
-# Attribute-Assistted-Classification-Datasets
+# Attribute-Cooperated-Classification-Datasets
 ## Contents
-Three ***Attribute-Assistted-Classification-Datasets*** **(AACDs)** are built based on three existing classficiation datasets:
+Three ***Attribute-Cooperated-Classification-Datasets*** **(ACC Datasets)** are built based on three existing classficiation datasets:
 - AC-AID based on AID
 - AC-UCM based on UCM
 - AC-Sydney based on Sydney
