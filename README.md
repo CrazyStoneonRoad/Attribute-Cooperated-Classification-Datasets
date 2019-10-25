@@ -5,10 +5,16 @@ Three ***Attribute-Cooperated-Classification-Datasets*** **(ACC Datasets)** are 
 - AC-UCM based on UCM
 - AC-Sydney based on Sydney
 
+## Attribute Lists for ACC Datasets
+[Table](https://github.com/CrazyStoneonRoad/Attribute-Cooperated-Classification-Datasets/blob/master/Attribute_List.md)
+
+
 ## Calculates
 
 ![AID](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-AID/AC-AID-CHART.png)
+ 
 ![UCM](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-UCM/AC-UCM-CHART.png)
+ 
 ![SYD](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-Sydney/AC-Sydney-CHART.png)
 
 
@@ -50,8 +56,6 @@ Samples of the three datasets are shown as below.
 Classification labels are shown on the left side of the images. 
 Several elements of attribute label vectors are shown below the images.
 
-## Attribute Lists for ACC Datasets
-![Table](https://github.com/CrazyStoneonRoad/Attribute-Cooperated-Classification-Datasets/blob/master/Attribute_List.md)
 
 ## Citations
 ### Our article:
