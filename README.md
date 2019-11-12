@@ -1,9 +1,9 @@
 # Attribute-Cooperated-Classification-Datasets
 ## Contents
 Three ***Attribute-Cooperated-Classification-Datasets*** **(ACC Datasets)** are built based on three existing classficiation datasets:
-- AC-AID based on AID
-- AC-UCM based on UCM
-- AC-Sydney based on Sydney
+- AC-AID based on [AID](Citations"AID") and RSICD
+- AC-UCM based on UCM and Caption
+- AC-Sydney based on Sydney and Caption
 
 ## Attribute Type Lists for ACC Datasets
 [Table](https://github.com/CrazyStoneonRoad/Attribute-Cooperated-Classification-Datasets/blob/master/Attribute_List.md)
@@ -58,6 +58,8 @@ Several elements of attribute label vectors are shown below the images.
 
 
 ## Citations
+If you find the ACC Datasets usesful, please cite the following articles.
+
 ### Our article:
 ```
 
@@ -77,6 +79,7 @@ Several elements of attribute label vectors are shown below the images.
 	publisher={IEEE}
 }
 ```
+
 - UCM: 
 ```
 @inproceedings{yang2010bag,
