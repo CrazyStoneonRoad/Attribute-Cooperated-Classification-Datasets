@@ -6,7 +6,7 @@ Three ***Attribute-Cooperated-Classification-Datasets*** **(ACC Datasets)** are 
 - AC-Sydney based on Sydney [3] and Caption [5]
 
 ## Attribute Type Lists for ACC Datasets
-[Table](https://github.com/CrazyStoneonRoad/Attribute-Cooperated-Classification-Datasets/blob/master/Attribute_List.md)
+Several rows of [Attribute Type Lists](https://github.com/CrazyStoneonRoad/Attribute-Cooperated-Classification-Datasets/blob/master/Attribute_List.md) are shown below:
 
 ![Samples](https://github.com/CrazyStoneonRoad/Attribute-Cooperated-Classification-Datasets/blob/master/%E5%9B%BE%E7%89%87.png)
 
