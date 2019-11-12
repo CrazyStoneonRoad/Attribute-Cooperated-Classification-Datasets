@@ -19,32 +19,6 @@ Several rows of [Attribute Type Lists](https://github.com/CrazyStoneonRoad/Attri
 ![SYD](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-Sydney/%E5%9B%BE%E7%89%87.png)
 
 
-- NO.Images
-
-Number of images in the dataset.
-
-- SIZE.Images
-
-Size of images in the dataset.
-
-- NO.Classes
-
-Number of image classes in the dataset.
-
-- **NO.Attributes**
-
-Number of all attribute items in the dataset. 
-Note that in an image, there maybe several attribute items from all items.
-
-- NO.Images per Class
-
-Number of images in each class.
-
-- **NO.Images per Attribute**
-
-Number of images corresponding to each attribute item.
-
-
 ## Samples
 Samples of the three datasets are shown as below.
 - AC-AID
