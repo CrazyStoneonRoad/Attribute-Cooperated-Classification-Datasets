@@ -1,7 +1,7 @@
 # Attribute-Cooperated-Classification-Datasets
 ## Contents
 Three ***Attribute-Cooperated-Classification-Datasets*** **(ACC Datasets)** are built based on three existing classficiation datasets:
-- AC-AID based on [AID](Citations"AID") and RSICD
+- AC-AID based on [AID](Citations "AID") and RSICD
 - AC-UCM based on UCM and Caption
 - AC-Sydney based on Sydney and Caption
 
