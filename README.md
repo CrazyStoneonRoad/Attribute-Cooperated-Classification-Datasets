@@ -1,9 +1,9 @@
 # Attribute-Cooperated-Classification-Datasets
 ## Contents
 Three ***Attribute-Cooperated-Classification-Datasets*** **(ACC Datasets)** are built based on three existing classficiation datasets:
-- AC-AID based on [AID](Citations "AID") and RSICD
-- AC-UCM based on UCM and Caption
-- AC-Sydney based on Sydney and Caption
+- AC-AID based on AID [1] and RSICD [4]
+- AC-UCM based on UCM [2] and Caption [5]
+- AC-Sydney based on Sydney [3] and Caption [5]
 
 ## Attribute Type Lists for ACC Datasets
 [Table](https://github.com/CrazyStoneonRoad/Attribute-Cooperated-Classification-Datasets/blob/master/Attribute_List.md)
@@ -66,7 +66,7 @@ If you find the ACC Datasets usesful, please cite the following articles.
 ```
 
 ### Other articles:
-- AID: 
+- [1] AID: 
 ```
 @article{xia2017aid,
 	title={AID: A benchmark data set for performance evaluation of aerial scene classification},
@@ -80,7 +80,7 @@ If you find the ACC Datasets usesful, please cite the following articles.
 }
 ```
 
-- UCM: 
+- [2] UCM: 
 ```
 @inproceedings{yang2010bag,
 	title={Bag-of-visual-words and spatial extensions for land-use classification},
@@ -91,7 +91,7 @@ If you find the ACC Datasets usesful, please cite the following articles.
 	organization={ACM}
 }
 ```
-- Sydney: 
+- [3] Sydney: 
 ```
 @article{zhang2014saliency,
 	title={Saliency-guided unsupervised feature learning for scene classification},
@@ -105,7 +105,7 @@ If you find the ACC Datasets usesful, please cite the following articles.
 }
 ```
 
-- RSICD: 
+- [4] RSICD: 
 ```
 @article{lu2017exploring,
 	title={Exploring Models and Data for Remote Sensing Image Caption Generation},
@@ -119,7 +119,7 @@ If you find the ACC Datasets usesful, please cite the following articles.
 }
 ```
 
-- Caption (ACM-caption , Sydney-caption): 
+- [5] Caption (ACM-caption , Sydney-caption): 
 ```
 @inproceedings{qu2016deep,
 	title={Deep semantic understanding of high resolution remote sensing image},
