@@ -8,6 +8,7 @@ Three ***Attribute-Cooperated-Classification-Datasets*** **(ACC Datasets)** are 
 ## Attribute Type Lists for ACC Datasets
 [Table](https://github.com/CrazyStoneonRoad/Attribute-Cooperated-Classification-Datasets/blob/master/Attribute_List.md)
 
+![Samples](https://github.com/CrazyStoneonRoad/Attribute-Cooperated-Classification-Datasets/blob/master/%E5%9B%BE%E7%89%87.png)
 
 ## Calculates
 
