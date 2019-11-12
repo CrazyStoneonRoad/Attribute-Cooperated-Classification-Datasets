@@ -12,11 +12,11 @@ Several rows of [Attribute Type Lists](https://github.com/CrazyStoneonRoad/Attri
 
 ## Calculates
 
-![AID](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-AID/%E5%9B%BE%E7%89%87.png)
- 
-![UCM](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-UCM/%E5%9B%BE%E7%89%87.png)
- 
-![SYD](https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-Sydney/%E5%9B%BE%E7%89%87.png)
+<img src="https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-AID/%E5%9B%BE%E7%89%87.png" width="500" hegiht="313" align=center />
+
+<img src="https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-UCM/%E5%9B%BE%E7%89%87.png" width="500" hegiht="313" align=center />
+
+<img src="https://github.com/CrazyStoneonRoad/Attribute-Assistted-Classification-Datasets/blob/master/AC-Sydney/%E5%9B%BE%E7%89%87.png" width="500" hegiht="313" align=center /> 
 
 
 ## Samples
