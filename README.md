@@ -42,9 +42,10 @@ If you find the ACC Datasets usesful, please cite the following articles.
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Attribute-Cooperated Convolutional Neural Network for Remote Sensing Image Classification}, 
   year={2020},
-  volume={},
-  number={},
-  pages={1-14},}
+  volume={58},
+  number={12},
+  pages={8358-8371},
+  doi={10.1109/TGRS.2020.2987338}}
 ```
 
 ### Other articles:
