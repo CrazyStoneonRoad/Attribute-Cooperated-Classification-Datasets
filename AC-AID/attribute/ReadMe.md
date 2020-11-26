@@ -9,6 +9,6 @@ The first string represents attribute name, and the secon string represents numb
 # 3. check_attr.py
 Python file to generate `count.txt`
 
-# 4. Dict.py
+# 4. Dict.txt
 Ordered dictionary of attributes in this dataset. 
 The sequence of attributes in this dictionary cooresponds to that of vectors in `Attributes.json`. 
