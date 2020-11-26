@@ -1,7 +1,7 @@
 # Images
 
 
-- Images of AC-UCM is the same as those of UCM.
+- Images of AC-AID is the same as those of AID.
 
 
 
