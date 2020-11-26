@@ -37,15 +37,16 @@ If you find the ACC Datasets usesful, please cite the following articles.
 
 ### Our article:
 ```
-@ARTICLE{9082147,
-  author={Y. {Zhang} and X. {Zheng} and Y. {Yuan} and X. {Lu}},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Attribute-Cooperated Convolutional Neural Network for Remote Sensing Image Classification}, 
-  year={2020},
+@article{zhang2020Attribute,
+  title={Attribute-Cooperated Convolutional Neural Network for Remote Sensing Image Classification},
+  author={ Zhang, Yuanlin  and  Zheng, Xiangtao  and  Yuan, Yuan  and  Lu, Xiaoqiang },
+  journal={IEEE Transactions on Geoence and Remote Sensing},
   volume={58},
   number={12},
   pages={8358-8371},
-  doi={10.1109/TGRS.2020.2987338}}
+  year={2020}
+  publisher={IEEE}
+}
 ```
 
 ### Other articles:
